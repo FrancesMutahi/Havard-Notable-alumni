@@ -1,0 +1,46 @@
+.body{
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.navbar{
+    background-color: crimson;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+}
+
+.navbar h1{
+    color: #fff;
+
+}
+
+.nav-items1{
+    color: #fff;
+    display: inline-flex;
+    list-style: none;
+    text-decoration: none;
+    justify-content: space-around;
+    margin: 5px;
+}
+
+.right{
+    display: flex;
+    margin: 5px 15px;
+}
+
+.line{
+    margin-left: 111px;
+    width: 90%;
+    height: 40px;
+    border-bottom: 10px solid black;
+    position: absolute;
+    }
