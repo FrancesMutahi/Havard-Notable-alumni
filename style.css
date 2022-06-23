@@ -11,15 +11,19 @@
 }
 
 .navbar{
-    background-color: crimson;
+    background-color: rgb(177, 19, 51);
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: right;
 }
 
+
+
 .navbar h1{
     color: #fff;
+    margin: 7px 130px;
+    padding: 1px;
 
 }
 
@@ -32,13 +36,15 @@
     margin: 5px;
 }
 
+
+
 .right{
     display: flex;
     margin: 5px 15px;
 }
 
 .line{
-    margin-left: 111px;
+    margin-left: 117px;
     width: 90%;
     height: 40px;
     border-bottom: 10px solid black;
